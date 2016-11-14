@@ -1,22 +1,19 @@
-# Docker: Alpine | Node 6.9.1
+# Docker: Alpine | Node 6.9.1 | Angular-Cli: 1.0.0-beta.19-3 | 
 
 ### Setup:
- - folder structure for docker.alpine:
+ - folder structure for Docker:
 
  > var/www/app/
 
- - folder structure for the http-server:
+ - folder structure for the lite-server:
 
  > var/www/app/public/index.html
 
 ### NPM Installs
  
  - angular-cli
-
- - http-server@0.9.0
+ - lite-server@2.2.2
  
- > small minimal http server for web view
-
 ### Example:
 ```bash
 
