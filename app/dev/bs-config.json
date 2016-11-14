@@ -1,0 +1,31 @@
+{
+  "port": 8080,
+  "files": [ "./**/*.{html,htm,css,js,ts,md}" ],
+  "watchOptions": { "ignored": "node_modules" },
+  "server": { "baseDir": "./" },
+  "injectChanges": true,
+  "startPath": null,
+  "ghostMode": {
+    "clicks": true,
+    "links": true,
+    "forms": true,
+    "scroll": true
+    },
+  "open": true,
+  "ui": {
+    "port": 8001
+  }
+}
+    
+
+ 
+  
+    
+
+
+ 
+
+    
+
+
+  
